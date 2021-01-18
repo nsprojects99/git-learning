@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Student Tracker App</title>
+<title>Student Tracker App git</title>
 	
 	<link type="text/css" rel="stylesheet" href="css/style.css">
 </head>
@@ -12,7 +12,7 @@
 
 <div id="wrapper">
 		<div id="header">
-			<h2>FooBar University</h2>
+			<h2>FooBar University git</h2>
 		</div>
 	</div>
 	
